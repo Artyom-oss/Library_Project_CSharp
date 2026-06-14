@@ -1,0 +1,8 @@
+D:\Users\днс\source\repos\LibraryManagerCSharp\LibraryManagerCSharp\bin\Debug\LibraryManagerCSharp.exe.config
+D:\Users\днс\source\repos\LibraryManagerCSharp\LibraryManagerCSharp\bin\Debug\LibraryManagerCSharp.exe
+D:\Users\днс\source\repos\LibraryManagerCSharp\LibraryManagerCSharp\bin\Debug\LibraryManagerCSharp.pdb
+D:\Users\днс\source\repos\LibraryManagerCSharp\LibraryManagerCSharp\obj\Debug\LibraryManagerCSharp.csproj.AssemblyReference.cache
+D:\Users\днс\source\repos\LibraryManagerCSharp\LibraryManagerCSharp\obj\Debug\LibraryManagerCSharp.csproj.CoreCompileInputs.cache
+D:\Users\днс\source\repos\LibraryManagerCSharp\LibraryManagerCSharp\obj\Debug\LibraryManagerCSharp.exe
+D:\Users\днс\source\repos\LibraryManagerCSharp\LibraryManagerCSharp\obj\Debug\LibraryManagerCSharp.pdb
+D:\Users\днс\source\repos\LibraryManagerCSharp\LibraryManagerCSharp\obj\Debug\LibraryManagerCSharp.exe.config
